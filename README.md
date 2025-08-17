@@ -25,7 +25,7 @@
 
 | 📊 **Metric** | 📈 **Current Value** | 📅 **Updated** |
 |---------------|---------------------|----------------|
-| ⭐ Stars | [![GitHub Stars](https://img.shields.io/github/stars/sivolko/soc-bible?style=flat-square&color=gold)](https://github.com/sivolko/soc-bible/stargazers) | Real-time |
+| ⭐ Stars | [![GitHub Stars](https://img.shields.io/github/stars/sivolko/soc-bible?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=gold)](https://github.com/sivolko/soc-bible/stargazers) | Real-time |
 | 🍴 Forks | [![GitHub Forks](https://img.shields.io/github/forks/sivolko/soc-bible?style=flat-square&color=blue)](https://github.com/sivolko/soc-bible/network/members) | Real-time |
 | 👥 Contributors | [![GitHub Contributors](https://img.shields.io/github/contributors/sivolko/soc-bible?style=flat-square&color=orange)](https://github.com/sivolko/soc-bible/graphs/contributors) | Real-time |
 | 📝 Open Issues | [![GitHub Issues](https://img.shields.io/github/issues/sivolko/soc-bible?style=flat-square&color=red)](https://github.com/sivolko/soc-bible/issues) | Real-time |
