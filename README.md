@@ -199,14 +199,6 @@ soc-bible/
 - **Lateral Movement Hunting**: Advanced TTPs identification
 - **Data Exfiltration Monitoring**: Comprehensive monitoring approaches
 - **Privilege Escalation**: Detection and response procedures
-| 👥 **Contributors** | ![GitHub contributors](https://img.shields.io/github/contributors/sivolko/soc-bible?style=flat-square&color=green) | Real-time |
-| 📝 **Open Issues** | ![GitHub issues](https://img.shields.io/github/issues/sivolko/soc-bible?style=flat-square&color=red) | Real-time |
-| 🔄 **Pull Requests** | ![GitHub pull requests](https://img.shields.io/github/issues-pr/sivolko/soc-bible?style=flat-square&color=purple) | Real-time |
-| 📦 **Releases** | ![GitHub release](https://img.shields.io/github/v/release/sivolko/soc-bible?style=flat-square&color=brightgreen) | Real-time |
-| 💾 **Repository Size** | ![GitHub repo size](https://img.shields.io/github/repo-size/sivolko/soc-bible?style=flat-square&color=orange) | Real-time |
-| 🕒 **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/sivolko/soc-bible?style=flat-square&color=blueviolet) | Real-time |
-
-</div>
 
 ## 🤝 Contributing
 
@@ -243,7 +235,7 @@ This repository contains security-related content intended for defensive purpose
 
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/sivolko/soc-bible/discussions)
 - 🐛 **Issues**: [Report Issues](https://github.com/sivolko/soc-bible/issues)
-- 📧 **Email**: [security@example.com](mailto:security@example.com)
+- � **LinkedIn**: [Shubhendu Shubham](https://www.linkedin.com/in/shubhendu-shubham/)
 - 🐦 **Twitter**: [@sivolko](https://twitter.com/sivolko)
 
 ## 🙏 Acknowledgments
