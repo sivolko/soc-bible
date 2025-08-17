@@ -21,17 +21,18 @@
 <!-- GitHub Activity Widget (Similar to the one you showed) -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivolko&repo=soc-bible&theme=github-compact&hide_border=true)
 
-<!-- Alternative Real-time Activity Badges -->
-![Stars & Activity](https://img.shields.io/badge/⭐_Stars-![GitHub stars](https://img.shields.io/github/stars/sivolko/soc-bible?style=flat-square)-gold) 
-![Last Commit](https://img.shields.io/badge/🕒_Last_Commit-![GitHub last commit](https://img.shields.io/github/last-commit/sivolko/soc-bible?style=flat-square&label=)-purple)
+### 📈 **Repository Metrics & Stats**
 
-<!-- Real-time Activity Summary fetching from sivolko/soc-bible -->
-| 🌟 **Live Stats** | 📈 **Value** | 🔄 **Updates** |
-|-------------------|--------------|-----------------|
-| ![Stars](https://img.shields.io/github/stars/sivolko/soc-bible?style=flat-square&logo=star&color=gold&label=⭐) | **Stargazers** | Real-time |
-| ![Last Commit](https://img.shields.io/github/last-commit/sivolko/soc-bible?style=flat-square&logo=git&color=green&label=🕒) | **Latest Activity** | Live tracking |
-| ![Commits](https://img.shields.io/github/commit-activity/m/sivolko/soc-bible?style=flat-square&logo=github&color=blue&label=📝) | **Monthly Commits** | Auto-refresh |
-| ![Contributors](https://img.shields.io/github/contributors/sivolko/soc-bible?style=flat-square&logo=people&color=orange&label=👥) | **Contributors** | Real-time |
+| 📊 **Metric** | 📈 **Current Value** | 📅 **Updated** |
+|---------------|---------------------|----------------|
+| ⭐ Stars | [![GitHub Stars](https://img.shields.io/github/stars/sivolko/soc-bible?style=flat-square&color=gold)](https://github.com/sivolko/soc-bible/stargazers) | Real-time |
+| 🍴 Forks | [![GitHub Forks](https://img.shields.io/github/forks/sivolko/soc-bible?style=flat-square&color=blue)](https://github.com/sivolko/soc-bible/network/members) | Real-time |
+| 👥 Contributors | [![GitHub Contributors](https://img.shields.io/github/contributors/sivolko/soc-bible?style=flat-square&color=orange)](https://github.com/sivolko/soc-bible/graphs/contributors) | Real-time |
+| 📝 Open Issues | [![GitHub Issues](https://img.shields.io/github/issues/sivolko/soc-bible?style=flat-square&color=red)](https://github.com/sivolko/soc-bible/issues) | Real-time |
+| 🔄 Pull Requests | [![GitHub PRs](https://img.shields.io/github/issues-pr/sivolko/soc-bible?style=flat-square&color=green)](https://github.com/sivolko/soc-bible/pulls) | Real-time |
+| 📦 Releases | [![GitHub Release](https://img.shields.io/github/v/release/sivolko/soc-bible?style=flat-square&color=brightgreen)](https://github.com/sivolko/soc-bible/releases) | Real-time |
+| 💾 Repository Size | [![Repo Size](https://img.shields.io/github/repo-size/sivolko/soc-bible?style=flat-square&color=teal)](https://github.com/sivolko/soc-bible) | Real-time |
+| 🕒 Last Commit | [![Last Commit](https://img.shields.io/github/last-commit/sivolko/soc-bible?style=flat-square&color=purple)](https://github.com/sivolko/soc-bible/commits/main) | Real-time |
 
 </div>
 
@@ -198,15 +199,6 @@ soc-bible/
 - **Lateral Movement Hunting**: Advanced TTPs identification
 - **Data Exfiltration Monitoring**: Comprehensive monitoring approaches
 - **Privilege Escalation**: Detection and response procedures
-
-## 📊 Repository Metrics & Stats
-
-<div align="center">
-
-| 📊 **Metric** | 📈 **Current Value** | 📅 **Updated** |
-|---------------|---------------------|----------------|
-| ⭐ **Stars** | ![GitHub stars](https://img.shields.io/github/stars/sivolko/soc-bible?style=flat-square&color=yellow) | Real-time |
-| 🍴 **Forks** | ![GitHub forks](https://img.shields.io/github/forks/sivolko/soc-bible?style=flat-square&color=blue) | Real-time |
 | 👥 **Contributors** | ![GitHub contributors](https://img.shields.io/github/contributors/sivolko/soc-bible?style=flat-square&color=green) | Real-time |
 | 📝 **Open Issues** | ![GitHub issues](https://img.shields.io/github/issues/sivolko/soc-bible?style=flat-square&color=red) | Real-time |
 | 🔄 **Pull Requests** | ![GitHub pull requests](https://img.shields.io/github/issues-pr/sivolko/soc-bible?style=flat-square&color=purple) | Real-time |
