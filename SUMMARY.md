@@ -8,6 +8,7 @@
 * [💓 Best Practices](best-practices/README.md)
   * [Microsoft](best-practices/microsoft.md)
   * [✅ SIEM deployment best practice](best-practices/siem-deployment-best-practice.md)
+  * [Layman Security Architect](best-practices/layman-security-architect.md)
 * [🤺 TTP](ttp.md)
 * [Build End to End SOC on AWS](build-end-to-end-soc-on-aws.md)
 
