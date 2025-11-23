@@ -4,11 +4,11 @@ description: This page contains 3 stages of SIEM deployment best practices and u
 
 # ✅ SIEM deployment best practice
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Stage 1: New Deployment-Getting the basics right**
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 When you’re starting fresh with a SIEM, resit the urge to collect everything. I’ve seen too many teams drown in their own data because they tried to do too much, too fast. Your soc team might have onboarded SIEM like splunk, ELK stack or maybe it’s cloud native like Microsoft sentinel. Now your management is asking when they’ll see ROI and you’re drawing in alerts that might as well be written in ancient Greek.
 
@@ -61,12 +61,11 @@ DB-CUSTOMER-PROD instead of SQL-BOX-02
 
 **The False Positive Battle**
 
-Expect to spend 60% of your first three months tuning these alerts. That’s normal. Document every tuning decision - your future self will thank you\
-
+Expect to spend 60% of your first three months tuning these alerts. That’s normal. Document every tuning decision - your future self will thank you<br>
 
 ## **Stage 2: Established Deployments - Scaling Up Intelligently**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you’ve got your critical systems covered and your team is comfortable with the alert volume, it’s time to expand. But do it strategically.
 
@@ -91,8 +90,7 @@ This is where your SIEM starts becoming truly powerful. Start connecting it to o
 
 **Asset Knowledge Database Integration**: Your SIEM should know which systems are critical, who owns them, and what they’re used for. When you get an alert from “192.168.1.100,” you should immediately see it’s the HR payroll server
 
-**Vulnerability Management Integration**: When your SIEM knows that WEB-PROD-01 has unpatched critical vulnerabilities, that failed login alert suddenly becomes much more interesting.\
-
+**Vulnerability Management Integration**: When your SIEM knows that WEB-PROD-01 has unpatched critical vulnerabilities, that failed login alert suddenly becomes much more interesting.<br>
 
 **Alert Queue Management**
 
@@ -118,8 +116,7 @@ Now you can start pushing agents automatically. But please, test in a lab enviro
 
 ## **Stage 3: Mature Deployments - Advanced Detection and Response**
 
-![](<../.gitbook/assets/image (7).png>)\
-
+![](<../.gitbook/assets/image (7) (1).png>)<br>
 
 This is where the magic happens. Your SIEM transforms from a reactive tool into a proactive threat hunting platform.At this stage, you’re collecting logs from everything that matters:
 
@@ -164,4 +161,4 @@ orchestrate your entire security response. When a high-severity alert fires:
 * Alert closure rate
 * Analyst satisfaction (yes, this matters!)
 
-Don’t get caught up in vanity metrics like “events per second”(EPS) that don’t correlate with security outcomes.The best SIEM in the world is useless if your analysts can’t use it effectively. Invest in training and usable interfaces.Please don’t treat your SIEM as “Set and Forget”, keep tuning, keep learning, keep troubleshooting!\
+Don’t get caught up in vanity metrics like “events per second”(EPS) that don’t correlate with security outcomes.The best SIEM in the world is useless if your analysts can’t use it effectively. Invest in training and usable interfaces.Please don’t treat your SIEM as “Set and Forget”, keep tuning, keep learning, keep troubleshooting!<br>

@@ -15,6 +15,7 @@
 ## 🤖 SOAR
 
 * [Use Cases](soar/use-cases.md)
+* [SNOW -Teams](soar/snow-teams.md)
 
 ***
 

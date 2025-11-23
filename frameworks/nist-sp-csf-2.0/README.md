@@ -1,4 +1,4 @@
-# NIST  SP CSF 2.0
+# NIST SP CSF 2.0
 
 Incident Response as a part of Cyber Security&#x20;
 
@@ -41,7 +41,7 @@ Here’s a cheat sheet summarizing **Incident Response Roles and Responsibilitie
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Roles and Responsibility </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption><p>Roles and Responsibility </p></figcaption></figure>
 
 ### Incident Response Policies, Processes and Procedures
 
